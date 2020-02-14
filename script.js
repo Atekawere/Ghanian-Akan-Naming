@@ -1,0 +1,1 @@
+var maleNames = ["Kwasi","Kwadwo","Kwabena","kwaku","Yaw"]
