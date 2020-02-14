@@ -4,46 +4,34 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Akan Naming</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="styles.css">
-
-
+    <title>Document</title>
 </head>
 <body>
     <div class="container-fluid">
         <div class="jumbotron">
-            <h1>AKAN NAMING SYSTEM</h1>
-            <p>
-               Akan naming is a system that assists the user to know their Akan names by filling their date of birth,their gender and year of birth.Akan names are names that are usually given to Ghanian children after the day of the week they were born and the order in which they were born .These Akan names also have further meanings like the future reflection of a persons regarding their personalities and their characters.
-            </p>
-        </div>
-        <script src="script.js"></script>
-
-            <div>
-                <label>Year</label><br>
-                <input type="text" id="month" placeholder="Year born" minlength="4" maxlength="4" required><br>
-            </div>
-            
+        <h1>AKAN NAMING</h1>
+        
+    </div>
         <div>
+            <label>Year</label><br>
+            <input type="text" id="year" placeholder="Year born" minlength="4" maxlength="4" step="1" required><br>
+          </div>
+          <div>
             <label>Month</label><br>
-            <input type="text" id="month" placeholder="Month born"required><br>
-        </div>
-
-        <div>
+            <input type="text" id="month" placeholder="Month born" required><br>
+          </div>
+          <div>
             <label>Day</label><br>
-            <input type="text" id="day" placeholder="Day born"required><br>
-        </div>
-
-        <div>
+            <input type="text" id="day" placeholder="Day born" required><br>
+          </div>
+          <div>
             <label>Gender</label><br>
-            <input type="radio" id="gender" name="gender" value="female">Female<br>
             <input type="radio" id="gender" name="gender" value="male">Male<br>
-            <input type="submit" onclick="giveAkanName()"value="Submit">
-        </div>
-
+            <input type="radio" id="gender" name="gender" value="female">Female<br>
+            <input type="submit" onclick="giveAkanName()" value="Submit">
+          </div>
     </div>
     <script src="script.js"></script>
-
+    
 </body>
 </html>
