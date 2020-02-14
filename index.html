@@ -11,6 +11,7 @@
 
 </head>
 <body>
+    <script src=script.js></script>
     <div class="container-fluid">
         <div class="jumbotron">
             <h1>AKAN NAMING SYSTEM</h1>
@@ -18,29 +19,28 @@
                Akan naming is a system that assists the user to know their Akan names by filling their date of birth,their gender and year of birth.Akan names are names that are usually given to Ghanian children after the day of the week they were born and the order in which they were born .These Akan names also have further meanings like the future reflection of a persons regarding their personalities and their characters.
             </p>
         </div>
-        <div id="nem">
+
+            <div>
+
+                <label>Year</label><br>
+                <input type="text" id="month" placeholder="Year born" minlength="4" maxlength="4" required><br>
+    
+            </div>
+           
 
         <div>
 
-            <label>Date</label><br>
-            <input type="text" id="date" placeholder="Date born"required><br>
-
-        </div>
-
-        <div>
-
-            <label>Month</label>
+            <label>Month</label><br>
             <input type="text" id="month" placeholder="Month born"required><br>
 
         </div>
 
         <div>
 
-            <label>Year</label>
-            <input type="text" id="month" placeholder="Year born"required><br>
+            <label>Day</label><br>
+            <input type="text" id="day" placeholder="Day born"required><br>
 
         </div>
-    </div>
 
         <div>
             <label>Gender</label><br>
@@ -49,9 +49,7 @@
             <input type="submit" onclick="giveAkanName()"value="Submit">
         </div>
 
+    </div>
 
-
-  
-    
 </body>
 </html>
