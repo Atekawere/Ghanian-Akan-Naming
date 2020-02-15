@@ -1,4 +1,36 @@
 body{
-    background-image: url(https://bit.ly/3bEmMYf);
+    background-image: url(https://bit.ly/38uOvbL);
     background-size: cover;
+}
+input{
+    color: gray;
+    text-align: center;
+}
+label{
+    color: gray;
+    text-align: center;
+    font-size: x-large;
+}
+h1,h2{
+    text-align: center;
+    color:gray;
+}
+.jumbotron{
+    text-decoration: darkblue;
+}
+.ku{
+    /* float:right; */
+    /* width: 50px; */
+    margin: 100px;
+    text-align: center;
+
+}
+#tit{
+    display: flexbox;
+}
+
+#ter{
+    float: left;
+    color: darkblue;
+
 }

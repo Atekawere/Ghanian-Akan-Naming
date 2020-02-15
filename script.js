@@ -11,7 +11,7 @@ function giveAkanName () {
     var akanName;
     var validate = (year > 0 && (month >0 && month <=12) && (day > 0 && day <= 31));
     var validateGender = (gender !== "male" && gender !== "female");
-    if (year <= 0 ) {
+    if (year <= 0 || year > 2020 ) {
         alert("Invalid year");
     }
     else if (month <= 0 || month > 12) {
@@ -20,8 +20,8 @@ function giveAkanName () {
     else if (day <= 0 || day > 31){
         alert("Date is between 1 and 31");
     }
-    else if (validate == false) {
-        alert("Invalid Input!!");
+    else if (validate ==false) {
+        alert("Oops Invalid Input!!");
     }
     if(gender ==="male" && year > 0 && month > 0 && month < 13 && day > 0 && day < 32){
         akanName = maleNames[dayBorn];
