@@ -1,29 +1,32 @@
 body{
-    background-image: url(https://bit.ly/38uOvbL);
+    background-image: url(https://bit.ly/2Ssafzw);
     background-size: cover;
 }
 input{
-    color: gray;
+    color:blue;
     text-align: center;
 }
 label{
-    color: gray;
+    color:blue;
     text-align: center;
     font-size: x-large;
 }
 h1,h2{
     text-align: center;
-    color:gray;
+    color:red;
 }
 .jumbotron{
     text-decoration: darkblue;
+    background-color:brown;
 }
 .ku{
     /* float:right; */
     /* width: 50px; */
-    margin: 100px;
+    margin:auto;
     text-align: center;
-
+    color: blue;
+    width: 50px;
+    height: 50px;
 }
 #tit{
     display: flexbox;
