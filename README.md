@@ -1,11 +1,18 @@
+AKAN NAMING
+
+Description
+Akan naming web helps the users to know their Akan names and the day of the week they were born by filling in their gender,date of birth and year of birth.Akan names are used mostly by Ghanians when naming their children after the day of the week they were born and the order in which they were born.The Akan names also have further meanings regarding the persons future and characters.
 Technologies Used
+
 HTML & CSS (Bootstrap)
 JavaScript
 
 Requirements
+
 JSFiddle or JavaScript Console
 
 Setup Instructions and Installation
+
 Clone this repository to a location in your file system. git clone https://github.com/Atekawere/Ghanian-Akan-Naming.git
 Open terminal command line then navigate to the root folder of the application. cd Akan-Names
 Open index.html on your Browser.
