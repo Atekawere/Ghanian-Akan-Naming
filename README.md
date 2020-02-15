@@ -1,11 +1,13 @@
 AKAN NAMING
 
 Description
-Akan naming web helps the users to know their Akan names and the day of the week they were born by filling in their gender,date of birth and year of birth.Akan names are used mostly by Ghanians when naming their children after the day of the week they were born and the order in which they were born.The Akan names also have further meanings regarding the persons future and characters.
+.Akan naming web helps the users to know their Akan names and the day of the week they were born by filling in their gender,date of birth and year of birth.Akan names are used mostly by Ghanians when naming their children after the day of the week they were born and the order in which they were born.The Akan names also have further meanings regarding the persons future and characters.
 Technologies Used
 
-HTML & CSS (Bootstrap)
-JavaScript
+1. HTML 5
+2. styles.css
+3. bootstrap
+4. javascript
 
 Requirements
 
