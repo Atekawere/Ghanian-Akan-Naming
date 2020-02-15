@@ -1,26 +1,26 @@
 # AKAN NAMING
 
 ## Description
-.Akan naming web helps the users to know their Akan names and the day of the week they were born by filling in their gender,date of birth and year of birth.Akan names are used mostly by Ghanians when naming their children after the day of the week they were born and the order in which they were born.The Akan names also have further meanings regarding the persons future and characters.
+=>Akan naming web helps the users to know their Akan names and the day of the week they were born by filling in their gender,date of birth and year of birth.Akan names are used mostly by Ghanians when naming their children after the day of the week they were born and the order in which they were born.The Akan names also have further meanings regarding the persons future and characters.
 
-### Technologies Used
+## Technologies Used
 
 1. HTML 5
 2. styles.css
 3. bootstrap
 4. javascript
 
-Requirements
+## Requirements
 
 JSFiddle or JavaScript Console
 
-Setup Instructions and Installation
+## Setup Instructions and Installation
 
 Clone this repository to a location in your file system. git clone https://github.com/Atekawere/Ghanian-Akan-Naming.git
 Open terminal command line then navigate to the root folder of the application. cd Akan-Names
 Open index.html on your Browser.
 
-Behaviour Driven Development
+## Behaviour Driven Development
 
 The website will require a user to fill out information about his date of birth and the century he was was born. The application calculates the day of the week the user was born and outputs it. One will be required to choose his gender and then click on the submit button in order to generate his/her Akan name. The application matches the day of the week with a specific Akan Name and outputs it to the user with a personalized message.
 
@@ -29,7 +29,7 @@ NB : All input should be in Numbers
 Development
 Want to contribute? Great!
 
-To fix a bug or enhance an existing module, follow these steps:
+## To fix a bug or enhance an existing module, follow these steps:
 
 Fork the repo
 Create a new branch (git checkout -b improve-feature)
