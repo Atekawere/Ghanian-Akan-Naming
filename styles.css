@@ -39,7 +39,12 @@ input[type=text], select, textarea {
     margin-right:125%;
     width: 350%;
   }
-  
+input[type=radio] {
+    resize: vertical;
+    margin-left: 125%;
+    margin-right:125%;
+    width: 350%;         
+}
   label {
     padding: 12px 12px 12px 0;
     display: float;
