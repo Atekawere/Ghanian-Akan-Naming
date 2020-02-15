@@ -6,25 +6,16 @@ Requirements
 JSFiddle or JavaScript Console
 
 Setup Instructions and Installation
-Clone this repository to a location in your file system. git clone 
+Clone this repository to a location in your file system. git clone https://github.com/Atekawere/Ghanian-Akan-Naming.git
 Open terminal command line then navigate to the root folder of the application. cd Akan-Names
 Open index.html on your Browser.
 
 Behaviour Driven Development
 
-Displays Form For Entering Date and Gender
-INPUT: "User's Birthdate Entered"
-INPUT: "User's Gender Entered"
-OUTPUT: "Displays User's Akan Name According to Submitted Date and Gender"
-Displays an Error Message if Date Input Left Blank
-INPUT: ""
-OUTPUT: "Displays Error Message"
-Displays an Error Message if Gender Not Chosen
-INPUT: ""
-OUTPUT: "Display an Error Message"
-Clears Form and Reset the Message on Click
-INPUT: "Click Reset Button"
-OUTPUT: "Clears and Resets the Form"
+The website will require a user to fill out information about his date of birth and the century he was was born. The application calculates the day of the week the user was born and outputs it. One will be required to choose his gender and then click on the submit button in order to generate his/her Akan name. The application matches the day of the week with a specific Akan Name and outputs it to the user with a personalized message.
+
+NB : All input should be in Numbers
+
 Development
 Want to contribute? Great!
 
