@@ -1,39 +1,63 @@
 body{
-    background-image: url(https://bit.ly/2Ssafzw);
+    background-image: url(https://bit.ly/2HtYxyi);
     background-size: cover;
 }
 input{
-    color:blue;
+    color:black;
     text-align: center;
+    font-size: x-large;
 }
 label{
-    color:blue;
+    color:yellow;
     text-align: center;
     font-size: x-large;
 }
 h1,h2{
     text-align: center;
-    color:red;
+    color:white;
 }
 .jumbotron{
-    text-decoration: darkblue;
-    background-color:brown;
+    color: yellow;
+    background-color: plum;
+    font-size: x-large;
 }
 .ku{
-    /* float:right; */
-    /* width: 50px; */
-    margin:auto;
-    text-align: center;
-    color: blue;
-    width: 50px;
-    height: 50px;
-}
-#tit{
-    display: flexbox;
+    color:yellow;
+    font-size: x-large;
+    width: 200px;
+    height: 200px;
+    
 }
 
-#ter{
-    float: left;
-    color: darkblue;
-
-}
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 24px;
+    resize: vertical;
+  }
+  
+  label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+  }
+  
+  input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding:22px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  .container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
