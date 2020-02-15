@@ -3,12 +3,15 @@
 ## Description
 =>Akan naming web helps the users to know their Akan names and the day of the week they were born by filling in their gender,date of birth and year of birth.Akan names are used mostly by Ghanians when naming their children after the day of the week they were born and the order in which they were born.The Akan names also have further meanings regarding the persons future and characters.
 
+## Authors
+* Jacinta Ateka
+
 ## Technologies Used
 
-1. HTML 5
-2. styles.css
-3. bootstrap
-4. javascript
+1. HTML 5 was used in creating the structure of the different components in the web.
+2. styles.css used in styling the webpage and make it more appealing and good looking.
+3. bootstrap was also used in styling
+4. javascript which was used to validate the user inputs and returning errors if any .It was also used to make trhe form more intaractive .
 
 ## Requirements
 
@@ -22,7 +25,7 @@ Open index.html on your Browser.
 
 ## Behaviour Driven Development
 
-The website will require a user to fill out information about his date of birth and the century he was was born. The application calculates the day of the week the user was born and outputs it. One will be required to choose his gender and then click on the submit button in order to generate his/her Akan name. The application matches the day of the week with a specific Akan Name and outputs it to the user with a personalized message.
+The website will require a user to fill out information about his/her date of birth and the year he/she was was born. The application calculates the day of the week the user was born and outputs it. One will be required to choose his gender and then click on the submit button in order to generate his/her Akan name. The application matches the day of the week with a specific Akan Name and outputs it to the user with a personalized message.
 
 NB : All input should be in Numbers
 
@@ -55,7 +58,7 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Support and Team
-=>Jacinta Ateka
-=>Student at Moringa
+=> Jacinta Ateka
+=> Student at Moringa
 
 .Do not hesitate to email me through jacintawere2@gmail.com for any inquiries.
