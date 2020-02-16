@@ -8,16 +8,23 @@ input{
     font-size: x-large;
 }
 label{
-    color:yellow;
+    color: white;
     text-align: center;
     font-size: x-large;
 }
-h1,h2{
+h1{
     text-align: center;
-    color:white;
+    color: black;
+    font-family: 'Modak', cursive;
+    font-style: italic;
+
+}
+h2{
+    color: white;
+    font-family: 'Galada', cursive;
 }
 .jumbotron{
-    color: yellow;
+    color: black;
     background-color: plum;
     font-size: x-large;
 }
@@ -26,7 +33,7 @@ h1,h2{
     font-size: x-large;
     width: 200px;
     height: 200px;
-    
+    text-align: right;
 }
 
 input[type=text], select, textarea {
@@ -35,24 +42,14 @@ input[type=text], select, textarea {
     border: 1px solid #ccc;
     border-radius: 24px;
     resize: vertical;
-    margin-left: 125%;
     margin-right:125%;
     width: 350%;
   }
-input[type=radio] {
-    resize: vertical;
-    margin-left: 125%;
-    margin-right:125%;
-    width: 350%;         
-}
+
   label {
-    padding: 12px 12px 12px 0;
-    display: float;
-    float: right;
-    margin-bottom: 5px;
-    margin-top: 20px;
-    margin-left: 20px;
-    margin-right: 20px;
+      margin-right: 25px;
+      margin-left: 25px;
+      text-align: right;
   }
   
   input[type=submit] {
@@ -63,14 +60,13 @@ input[type=radio] {
     border-radius: 4px;
     cursor: pointer;
     float: right;
-    
   }
   input[type=submit]:hover {
     background-color: #45a049;
   }
-  
-  .container {
-    border-radius: 5px;
-    background-color: #f2f2f2;
-    padding: 20px;
+  #gender {
+      text-align: center;
+      color: red;
+
+
   }

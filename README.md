@@ -61,4 +61,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 => Jacinta Ateka
 => Student at Moringa
 
-.Do not hesitate to email me through jacintawere2@gmail.com for any inquiries.
+*Do not hesitate to email me through jacintawere2@gmail.com for any inquiries.
